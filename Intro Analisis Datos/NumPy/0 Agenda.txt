@@ -1,0 +1,8 @@
+- NumPy Arrays
+- Generating random numbers with NumPy
+- Vectorized operations
+- Linear algebra
+- Broadcasting (Forecasting)
+
+Given the properties of Python, NumPy is pretty useful for scientific purpouses.
+Through the application of linear algebra, we'll be able to forecast and predict certain behaviours, which is a powerful mechanic.

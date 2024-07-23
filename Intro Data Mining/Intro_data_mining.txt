@@ -1,0 +1,16 @@
+Dataset: Conjuntos de datos recolectados y organizados para su análisis
+Atributos: Características o variables que describen los objetos del dataset
+Registro: Un conjunto de atributos que describen a un objeto en el dataset
+Clasificación: Asignación de objetos a clases predefinidas en función de sus atributos
+Regresión: Predicción de un valor numérico en función de los atributos de un objeto
+Agrupamiento: División de los objetos en grupos según sus atributos, de manera que los objetos en un grupo sean similares entre si y diferemtes a los objetos en otros grupos.
+
+
+Metodología: CRISP-DM (Cross-Industry Standar Process for Data Mining)
+
+Comprensión del negocio (Entender objetivos de negocio y necesidades de datos)
+Comprensión de datos (Explorar, desribir y evaluar la calidad de los datos)
+Preparación de datos (Limpieza, transformación y preprocecamiento para su uso en algoritmos de DM)
+Modelado (Selección y aplicación de algoritmos y técnicas de DM para construir modelos predictivos)
+Evaluación (Validar y evaluar los modelos obtenidos) La plus important
+Implementación (Desplegar los modelos y aplicarlos en la toma de decisiones)
